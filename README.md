@@ -175,6 +175,8 @@
 
 适合长会话、连续请求使用场景。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/sntp/refs/heads/main/ntsp-speed-test.png" alt="守候网络测速图" >
+
 ---
 
 ## 使用建议与注意事项
