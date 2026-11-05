@@ -19,8 +19,10 @@
 
 ## 快速入口
 
-- 👉 **守候网络 SNTP 官网注册入口**：  
-  https://finalto.xyz/1MzGx5
+👉 **守候网络 SNTP 官网注册入口**：  
+
+- 国内访问：https://finalto.xyz/1MzGx5  
+- 国外访问：[https://sntp.uk](https://ncdn1.sntp.uk/auth/register?code=tJ7YoQwK) 
 
 建议使用 Chrome、Edge 等桌面浏览器打开，完成注册与套餐选购。订阅获取及客户端配置步骤可参考下文说明。
 
@@ -100,7 +102,7 @@
 | Core Essentials | ¥28 / 月  | 200GB       | 500Mbps  | 3 台     |
 | Plus Advantage  | ¥38 / 月  | 350GB       | 1000Mbps | 4 台     |
 | Max Infinity    | ¥48 / 月  | 500GB       | 1500Mbps | 4 台     |
-| Premium | ¥968 / 年 | 1000GB / 月 | 2000Mbps | 8 台     |
+| Premium | ¥968 / 年 | 1000GB | 2000Mbps | 8 台     |
 
 **说明：**
 
@@ -222,7 +224,7 @@
 
 适合长会话、连续请求使用场景。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/sntp/refs/heads/main/images/ntsp--test-20261105.jpg" alt="守候网络测速图" >
+<img src="https://raw.githubusercontent.com/jichangbaike/sntp/refs/heads/main/images/sntp-test-20261105.jpg" alt="守候网络测速图" >
 
 ---
 
