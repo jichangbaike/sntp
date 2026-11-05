@@ -8,7 +8,7 @@
 >
 > 本文档构成任何使用建议，请在合法合规前提下使用相关服务。
 > 
-> **最后更新**：2026 年 5 月 13 日（套餐与活动请以官网为准）
+> **最后更新**：2026 年 11 月 05 日（套餐与活动请以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -109,9 +109,19 @@
 
 ## 活动情况和优惠码
 
-- 新年活动，全场85折
-- 活动时间：2026.02.01-2026.02.28
-- 优惠码：202602
+**① 充值返 10% 赠金**
+
+活动期间充值，额外赠送**充值金额的 10%**，余额可用于后续购买或续费。
+
+> **活动时间：**2026/11/01—2026/11/21
+
+**② 套餐新购 / 续费 88 折**
+
+套餐新购或手动续费时，系统会自动匹配活动优惠券，符合条件的订单可享受**88 折**。
+
+> **活动时间：**2026/11/01—2026/11/21
+
+**参与方式：**充值直接享赠金；购买或手动续费时，系统会自动匹配可用优惠券，无需手动输入。
 
 ### 选购建议
 
@@ -124,24 +134,48 @@
 
 ## 平台支持与客户端推荐
 
-### 桌面端
+### Windows 端
 
-- Windows / macOS / Linux  
-  - Clash Verge Rev  
-  - FlClash  
-  - Clash for Windows（旧版）
+- **SNTP for Windows**
+- Clash Verge Rev  
+- FlClash  
+- Clash Party
+- v2rayN
+
+### macOS 端
+
+- **SNTP for macOS**
+- **Surge**
+- Clash Verge Rev  
+- FlClash  
+- Clash Party
+- v2rayN
 
 ### 移动端
 
 - **iOS**
+  - **Surge**
   - Shadowrocket
   - Quantumult X
   - Stash
-  - Surge
-
+  - Loon
 - **Android**
+  - **SNTP for Android**
   - FlClash
   - Clash Meta 系客户端
+
+### Linux 端
+
+- **SNTP for Linux AMD64/ARM64**
+- Clash Verge Rev 
+- FlClash  
+- Clash Party
+- v2rayN
+
+###  OpenWrt 端
+
+- **OpenClash**
+- PassWall / PassWall2
 
 > 客户端请通过官方渠道或可信来源获取，避免使用来路不明的软件。
 
@@ -188,7 +222,7 @@
 
 适合长会话、连续请求使用场景。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/sntp/refs/heads/main/ntsp-speed-test.png" alt="守候网络测速图" >
+<img src="https://raw.githubusercontent.com/jichangbaike/sntp/refs/heads/main/images/ntsp--test-20261105.jpg" alt="守候网络测速图" >
 
 ---
 
@@ -234,5 +268,5 @@ A：当前仅允许 中国大陆（CN） IP 拉取订阅。更新订阅或一键
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-05-13`  
-- **Version:** `v1.0`
+- **Last Updated:** `2026-11-05`  
+- **Version:** `v1.1`
